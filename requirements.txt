@@ -3,3 +3,4 @@ streamlit==1.16.0
 pandas==1.5.2
 matplotlib==3.6.2
 request==2.31.0
+python==3.8.15
